@@ -5,7 +5,7 @@
 ---
 
 ## Student
-[Tu nombre completo aquí]
+JOSE MANUEL NUÑEZ MITCHEL
 
 ---
 
@@ -95,7 +95,8 @@ http://127.0.0.1:5000
 
 ## Screenshots
 
-*(Add screenshots here after running the app)*
+<img width="1390" height="675" alt="image" src="https://github.com/user-attachments/assets/e4f6e6bd-5660-43e1-aac6-49137475af56" />
+
 
 ---
 

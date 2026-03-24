@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>GameSearch — Video Game Search Engine</title>
+  <link rel="stylesheet" href="/static/style.css"/>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <h1>🎮 GameSearch</h1>
+    <p class="subtitle">Video game search engine — BM25 vs TF-IDF comparison</p>
+    <div class="stats-bar">
+      <span>📚 {{ stats.total_documents }} documents</span>
+      <span>🔤 {{ stats.vocabulary_size }} terms in vocabulary</span>
+      <span>📏 Avg length: {{ stats.avg_doc_length }} tokens</span>
+      <a href="/index-view" class="index-link">View Index →</a>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div class="search-box">
+    <input type="text" id="query" placeholder="Search for a game, genre, mechanic..." autofocus autocomplete="off"/>
+    <button id="search-btn">Search</button>
+  </div>
+
+  <div id="search-meta" class="search-meta hidden"></div>
+
+  <div id="results-container" class="results-grid hidden">
+    <div class="column">
+      <h2>📊 BM25 Results</h2>
+      <p class="algo-desc">BM25 uses term frequency saturation and document length normalization. Better for longer documents.</p>
+      <div id="bm25-results"></div>
+    </div>
+    <div class="column">
+      <h2>📈 TF-IDF Results</h2>
+      <p class="algo-desc">TF-IDF weighs term frequency against how rare the term is across the corpus. Classic baseline algorithm.</p>
+      <div id="tfidf-results"></div>
+    </div>
+  </div>
+
+  <div id="no-results" class="no-results hidden">
+    <p>No results found. Try a different query.</p>
+  </div>
+
+  <div id="loading" class="loading hidden">Searching...</div>
+</main>
+
+<footer>
+  <p>Mini Web Search Engine — Lab 2.1 | Video Games Corpus | Enhancement E: TF-IDF vs BM25</p>
+</footer>
+
+<script src="/static/main.js"></script>
+</body>
+</html>

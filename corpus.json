@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "title": "The Legend of Zelda: Breath of the Wild - Review",
+    "text": "The Legend of Zelda: Breath of the Wild is an action-adventure game developed and published by Nintendo for the Nintendo Switch and Wii U consoles. Released in 2017, it completely reinvented the open-world formula for the Zelda franchise. Players take control of Link who wakes up from a 100-year slumber and must explore the vast kingdom of Hyrule to defeat the evil Calamity Ganon. The game features a massive open world with dynamic weather, physics-based puzzles, and a climbing mechanic that lets players scale almost any surface. The game received universal acclaim, winning numerous Game of the Year awards. Its innovative gameplay systems, including weapon durability and cooking mechanics, set new standards for open-world design. Critics praised its sense of exploration and freedom, while the Sheikah Slate serves as the main tool for interacting with the world.",
+    "source": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild",
+    "category": "Action-Adventure"
+  },
+  {
+    "id": 2,
+    "title": "Red Dead Redemption 2 - Overview",
+    "text": "Red Dead Redemption 2 is an epic western action-adventure game developed and published by Rockstar Games. Released in 2018, it serves as a prequel to Red Dead Redemption. The game follows Arthur Morgan, an outlaw and member of the Van der Linde gang, as they attempt to survive in the declining era of the American frontier in 1899. The open world environment is one of the most detailed ever created in video game history, featuring dynamic weather systems, realistic animal behavior, and a living ecosystem. Players can hunt animals, rob trains, engage in gunfights, and interact with hundreds of NPCs across a vast map that includes mountains, swamps, towns, and plains. The game features a honor system that affects how NPCs react to the player. It won multiple awards including several Game of the Year accolades for its storytelling and world-building.",
+    "source": "https://en.wikipedia.org/wiki/Red_Dead_Redemption_2",
+    "category": "Action-Adventure"
+  },
+  {
+    "id": 3,
+    "title": "Minecraft - The Sandbox Phenomenon",
+    "text": "Minecraft is a sandbox video game created by Markus Persson and later developed by Mojang Studios. First released in 2011, it has become the best-selling video game of all time with over 238 million copies sold across all platforms. The game features a procedurally generated world made of blocks where players can mine resources, craft items, and build virtually anything imaginable. There are multiple game modes including survival mode, creative mode, adventure mode, and hardcore mode. In survival mode, players must gather resources, manage hunger, and fend off hostile mobs like creepers, zombies, and skeletons. The game has an active modding community and marketplace. Minecraft has been used in educational contexts to teach subjects like mathematics, history, and computer science. The Nether and End dimensions add additional layers of exploration and challenge to the base game.",
+    "source": "https://en.wikipedia.org/wiki/Minecraft",
+    "category": "Sandbox"
+  },
+  {
+    "id": 4,
+    "title": "The Witcher 3: Wild Hunt - Deep Dive",
+    "text": "The Witcher 3: Wild Hunt is an action role-playing game developed and published by CD Projekt Red. Released in 2015, it is widely considered one of the greatest video games ever made. Players control Geralt of Rivia, a monster hunter known as a Witcher, as he searches for his adopted daughter Ciri who is being pursued by the supernatural force known as the Wild Hunt. The game features an enormous open world divided into multiple regions including Novigrad, Skellige, and Toussaint. The writing is exceptional, with morally complex choices that have real consequences. The combat system combines fast-paced swordplay with magical signs and alchemy. The two major expansions, Hearts of Stone and Blood and Wine, are considered among the best DLC ever released. The game won over 800 awards including numerous Game of the Year distinctions.",
+    "source": "https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt",
+    "category": "RPG"
+  },
+  {
+    "id": 5,
+    "title": "Dark Souls - The Birth of Soulslike Genre",
+    "text": "Dark Souls is an action role-playing game developed by FromSoftware and published by Namco Bandai Games. Released in 2011, it is renowned for its high difficulty, deep lore, and interconnected world design. Players control a cursed undead character who must ring two Bells of Awakening to fulfill their destiny in the kingdom of Lordran. The game features a stamina-based combat system where players must carefully manage their actions in battle. Death is frequent but serves as a learning mechanism, with players leaving bloodstains that show how they died. The game has minimal hand-holding, with its lore delivered through item descriptions and environmental storytelling. Dark Souls spawned an entirely new genre of games referred to as Soulslike, characterized by challenging combat, steep learning curves, and rewarding gameplay loops. Boss battles are iconic and require pattern recognition and patience.",
+    "source": "https://en.wikipedia.org/wiki/Dark_Souls",
+    "category": "Action RPG"
+  },
+  {
+    "id": 6,
+    "title": "Grand Theft Auto V - Cultural Impact",
+    "text": "Grand Theft Auto V is an action-adventure game developed by Rockstar North and published by Rockstar Games. Released in 2013, it features three playable protagonists: Michael, a retired bank robber; Trevor, a violent criminal; and Franklin, a young gang member. Set in the fictional city of Los Santos, a satirical representation of Los Angeles, the game offers an enormous open world with diverse activities including heists, racing, tennis, golf, and more. The online multiplayer component, GTA Online, has been continually updated and remains one of the most profitable games ever made, generating billions in revenue. The game is celebrated for its writing, satire of American culture, and technical achievement. It is one of the best-selling entertainment products of all time, having sold over 185 million copies across multiple generations of consoles and PC.",
+    "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V",
+    "category": "Action-Adventure"
+  },
+  {
+    "id": 7,
+    "title": "Elden Ring - Fromsoft's Masterpiece",
+    "text": "Elden Ring is an action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. Released in 2022, it was created in collaboration with fantasy novelist George R.R. Martin who helped craft the game's mythology. Set in the Lands Between, players explore a massive open world in search of the shards of the Elden Ring and the demigods who possess them. The game retains the challenging combat of its Soulsborne predecessors while introducing open-world exploration, mounted combat on the spectral steed Torrent, and a more accessible structure with multiple paths to progress. The game features over a hundred boss encounters and an extensive underground network of caves and dungeons. Elden Ring won Game of the Year at The Game Awards 2022 and is considered FromSoftware's most ambitious and successful project to date.",
+    "source": "https://en.wikipedia.org/wiki/Elden_Ring",
+    "category": "Action RPG"
+  },
+  {
+    "id": 8,
+    "title": "Super Mario Odyssey - 3D Platformer Excellence",
+    "text": "Super Mario Odyssey is a platform game developed and published by Nintendo for the Nintendo Switch. Released in 2017, it follows Mario and his new ally Cappy, a sentient hat, as they travel across various kingdoms to rescue Princess Peach from Bowser. The game introduces the capture mechanic, allowing Mario to throw Cappy at enemies and objects to temporarily control them. Players explore sandbox-style kingdoms collecting Power Moons to power their ship, the Odyssey. The game features over 800 Power Moons across all kingdoms, offering tremendous replay value. Notable kingdoms include the urban New Donk City, the prehistoric Cascade Kingdom, and the underwater Seaside Kingdom. The game received universal acclaim for its creativity, level design, and the joy of its gameplay mechanics. It sold over 26 million copies worldwide.",
+    "source": "https://en.wikipedia.org/wiki/Super_Mario_Odyssey",
+    "category": "Platformer"
+  },
+  {
+    "id": 9,
+    "title": "God of War (2018) - Norse Mythology Reinvention",
+    "text": "God of War is an action-adventure game developed by Santa Monica Studio and published by Sony Interactive Entertainment. Released in 2018, it serves as a soft reboot of the franchise and reimagines the series in Norse mythology. Players control Kratos, the former Greek God of War, and his young son Atreus as they journey through the realms of Norse mythology following the death of Kratos's wife. The game shifts from the original hack-and-slash style to a more intimate over-the-shoulder camera perspective. Kratos's main weapon is the Leviathan Axe, which can be thrown and magnetically recalled. The entire game is presented as one continuous shot without any loading screens or camera cuts. The relationship between Kratos and Atreus is the emotional heart of the game. It won numerous Game of the Year awards for 2018.",
+    "source": "https://en.wikipedia.org/wiki/God_of_War_(2018_video_game)",
+    "category": "Action-Adventure"
+  },
+  {
+    "id": 10,
+    "title": "Cyberpunk 2077 - Futuristic Open World RPG",
+    "text": "Cyberpunk 2077 is an action role-playing game developed and published by CD Projekt Red. Released in 2020, set in Night City, a megalopolis in a dystopian future California. Players control V, a mercenary outlaw, who becomes entangled with the digital ghost of legendary rock star Johnny Silverhand, played by Keanu Reeves. The game features a massive open world with extensive character customization, multiple playstyles including netrunner, solo, and techie builds, and branching storylines. Its initial release was plagued by bugs on last-generation consoles, but subsequent patches and updates significantly improved the experience. The Phantom Liberty expansion released in 2023 was widely praised and marked the game's full redemption. Night City is one of the most visually detailed urban environments ever created in gaming.",
+    "source": "https://en.wikipedia.org/wiki/Cyberpunk_2077",
+    "category": "RPG"
+  },
+  {
+    "id": 11,
+    "title": "Halo: Combat Evolved - The FPS Revolution",
+    "text": "Halo: Combat Evolved is a first-person shooter game developed by Bungie and published by Microsoft Game Studios. Released in 2001 as a launch title for the original Xbox console, it revolutionized first-person shooters on consoles and introduced millions of players to the genre. Players control Master Chief, a super-soldier in advanced Mjolnir armor, alongside his AI companion Cortana, as they battle against the alien Covenant on a mysterious ring-shaped megastructure called Halo. The game features a two-weapon carry system, regenerating shields, and varied enemy AI that set new standards for the genre. Its multiplayer modes, particularly split-screen co-op and LAN play, became the foundation of social gaming in the early 2000s. The Halo franchise went on to become one of Microsoft's most important intellectual properties.",
+    "source": "https://en.wikipedia.org/wiki/Halo:_Combat_Evolved",
+    "category": "First-Person Shooter"
+  },
+  {
+    "id": 12,
+    "title": "Fortnite - Battle Royale Revolution",
+    "text": "Fortnite is an online video game developed by Epic Games, released in 2017. It became particularly famous for its Battle Royale mode, where 100 players are dropped onto an island and must fight to be the last one standing. The game uniquely combines shooting mechanics with building mechanics, allowing players to construct walls, ramps, and floors out of harvested materials for defense and movement. Fortnite operates on a seasonal model with regular updates introducing new themes, weapons, and limited-time events. Its free-to-play model with cosmetic microtransactions made it accessible to a massive audience. The game has hosted real-world events including virtual concerts by Travis Scott and Ariana Grande, with tens of millions of concurrent players. Fortnite's cultural impact has been enormous, influencing dance trends and becoming a major platform for brand collaborations.",
+    "source": "https://en.wikipedia.org/wiki/Fortnite",
+    "category": "Battle Royale"
+  },
+  {
+    "id": 13,
+    "title": "Stardew Valley - Indie Farming Simulator",
+    "text": "Stardew Valley is a simulation role-playing video game developed solely by ConcernedApe, the pseudonym of American game developer Eric Barone. Released in 2016, it was created over four years as a solo project. Players inherit a run-down farm in Stardew Valley and must restore it while also building relationships with the town's residents, exploring the mines, and participating in seasonal festivals. The game features farming, fishing, mining, combat, crafting, and relationship systems. The depth and polish of the game despite being a one-person project is remarkable. It draws inspiration from the Harvest Moon series but expands significantly on the formula. The game sold over 20 million copies and became one of the most beloved indie games of all time. Its relaxing gameplay loop and charming pixel art aesthetic have made it a staple recommendation for casual and hardcore gamers alike.",
+    "source": "https://en.wikipedia.org/wiki/Stardew_Valley",
+    "category": "Simulation"
+  },
+  {
+    "id": 14,
+    "title": "League of Legends - MOBA Giant",
+    "text": "League of Legends is a multiplayer online battle arena game developed and published by Riot Games. Released in 2009, it has grown to become one of the most popular and influential video games ever created. Two teams of five champions compete to destroy the opposing team's Nexus, the core structure within their base. The game features over 160 unique champions, each with distinct abilities and playstyles. Players progress through lanes, defeat minions and jungle monsters to earn gold, purchase items, and engage in team fights. The competitive scene, known as esports, is massive with the League of Legends World Championship drawing millions of viewers annually. The game is free-to-play with cosmetic purchases. Regular updates keep the meta evolving and introduce new champions and gameplay systems.",
+    "source": "https://en.wikipedia.org/wiki/League_of_Legends",
+    "category": "MOBA"
+  },
+  {
+    "id": 15,
+    "title": "The Last of Us - Narrative Masterwork",
+    "text": "The Last of Us is an action-adventure game developed by Naughty Dog and published by Sony Computer Entertainment. Released in 2013, it is set in a post-apocalyptic United States where a fungal infection has devastated civilization. Players control Joel, a smuggler who must escort a teenage girl named Ellie across the dangerous ruins of America. Ellie is immune to the infection, making her potentially the key to a cure. The game is celebrated for its emotional storytelling, complex characters, and the relationship that develops between Joel and Ellie. The gameplay blends stealth, combat, and puzzle elements in a third-person perspective. The infected enemies, including Clickers who hunt by sound, create tense encounters. The game received the highest review scores of its generation and won numerous Game of the Year awards. It was later adapted into a critically acclaimed HBO television series.",
+    "source": "https://en.wikipedia.org/wiki/The_Last_of_Us",
+    "category": "Action-Adventure"
+  },
+  {
+    "id": 16,
+    "title": "Pokémon Red and Blue - The Franchise Origin",
+    "text": "Pokémon Red and Blue are role-playing video games developed by Game Freak and published by Nintendo for the Game Boy. First released in Japan in 1996 and internationally in 1998-1999, they are the first installments of the Pokémon franchise. Players take the role of a young Pokémon Trainer who embarks on a journey across the Kanto region to catch and train creatures called Pokémon and defeat the Elite Four to become Pokémon Champion. The turn-based battle system and 151 original Pokémon became cultural icons. The games introduced trading and battling via the Game Boy Link Cable, adding a social dimension to the experience. The franchise went on to become the highest-grossing media franchise of all time, encompassing games, anime, trading cards, and merchandise. The games are still fondly remembered and have been remade multiple times.",
+    "source": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Blue",
+    "category": "RPG"
+  },
+  {
+    "id": 17,
+    "title": "Counter-Strike: Global Offensive - Tactical Shooter",
+    "text": "Counter-Strike: Global Offensive, commonly known as CS:GO, is a multiplayer tactical first-person shooter game developed by Valve and Hidden Path Entertainment. Released in 2012, it is the fourth major installment in the Counter-Strike series. Two teams, terrorists and counter-terrorists, compete in various objective-based game modes, most notably planting or defusing a bomb. The game is renowned for its emphasis on skill, precise aiming, and team coordination. Its competitive matchmaking system and ranking ladder have made it a staple of the esports scene. In 2023, the game was replaced by Counter-Strike 2, a free upgrade using the Source 2 engine. CS:GO was famous for its weapon skin economy, with rare skins selling for thousands of dollars. The game maintained millions of concurrent players for years after its release.",
+    "source": "https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive",
+    "category": "First-Person Shooter"
+  },
+  {
+    "id": 18,
+    "title": "Hollow Knight - Indie Metroidvania Gem",
+    "text": "Hollow Knight is a 2D action-adventure game developed and published by Team Cherry, an independent studio from Australia. Released in 2017, it is set in the underground kingdom of Hallownest, populated by various insect creatures. Players control the Knight, a small silent warrior, who explores the ruined kingdom to uncover its secrets and confront the Infection that has taken over. The game is a metroidvania, meaning players gain new abilities that allow them to access previously unreachable areas. It features precise combat, challenging boss fights, and a hauntingly beautiful hand-drawn art style. The game's musical score by Christopher Larkin is widely praised. Hollow Knight received universal acclaim and became one of the defining indie games of its era. A sequel, Silksong, has been long-awaited by fans.",
+    "source": "https://en.wikipedia.org/wiki/Hollow_Knight",
+    "category": "Metroidvania"
+  },
+  {
+    "id": 19,
+    "title": "Overwatch - Hero Shooter Pioneer",
+    "text": "Overwatch is a team-based action game developed and published by Blizzard Entertainment. Released in 2016, it popularized and defined the hero shooter genre. Two teams of six players compete, each player choosing from a roster of heroes with unique abilities and roles. Heroes are divided into damage, tank, and support categories. The objective-based maps require teams to escort payloads, capture control points, or hold positions. The game launched with 21 heroes and has expanded to over 40 since. Its diverse cast of heroes from various nationalities and backgrounds resonated with a broad audience. The game's animated shorts and lore built a rich universe outside of gameplay. Overwatch 2 replaced the original game in 2022, shifting to a free-to-play model with a 5v5 format and PvE content. The competitive esports league, the Overwatch League, launched in 2018.",
+    "source": "https://en.wikipedia.org/wiki/Overwatch_(video_game)",
+    "category": "First-Person Shooter"
+  },
+  {
+    "id": 20,
+    "title": "Sekiro: Shadows Die Twice - Samurai Action",
+    "text": "Sekiro: Shadows Die Twice is an action-adventure game developed by FromSoftware and published by Activision. Released in 2019, it won the Game of the Year award at The Game Awards. Players control Wolf, a shinobi in Sengoku-era Japan, on a mission to rescue his young lord and exact revenge. Unlike previous FromSoftware games, Sekiro features a fixed protagonist with a defined background and abilities, including a grappling hook prosthetic arm. The combat system focuses on posture rather than health, requiring players to deflect and break enemy guard to land a killing blow. This creates a rhythmic, intense back-and-forth swordplay unlike anything else in gaming. The game features minimal RPG elements compared to the Souls series, emphasizing mastery of the combat system. It is considered one of the most uniquely satisfying games in recent memory.",
+    "source": "https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice",
+    "category": "Action-Adventure"
+  },
+  {
+    "id": 21,
+    "title": "Animal Crossing: New Horizons - Island Life",
+    "text": "Animal Crossing: New Horizons is a social simulation video game developed and published by Nintendo for the Nintendo Switch. Released in March 2020, its timing during the COVID-19 pandemic made it a cultural phenomenon, providing comfort to millions of players worldwide. Players move to a deserted island and gradually develop it into a thriving community of anthropomorphic animal residents. The game progresses in real time, with seasonal events, time-specific activities, and daily tasks. Players can fish, catch bugs, grow flowers, decorate their island, and visit friends' islands online. Tom Nook, the friendly tanuki entrepreneur, oversees the island's development. The game received widespread acclaim for its relaxing gameplay and social features. It sold over 44 million copies, making it one of the best-selling Nintendo Switch games of all time.",
+    "source": "https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons",
+    "category": "Simulation"
+  },
+  {
+    "id": 22,
+    "title": "Doom (1993) - The FPS That Changed Everything",
+    "text": "Doom is a first-person shooter video game developed by id Software and published in 1993. It is widely considered one of the most influential games ever created and is often credited with popularizing the first-person shooter genre. Players control a space marine, later nicknamed Doomguy, battling through demon-infested levels of a Mars base, hell, and Earth. The game featured revolutionary 3D-like graphics, networked multiplayer, and intense action. Doom's level design, fast-paced gameplay, and heavy metal soundtrack set the template for an entire genre. The game was also highly controversial for its graphic violence and Satanic imagery, sparking debates about violence in video games. Its modding community was groundbreaking. The Doom franchise was revived in 2016 with a critically acclaimed reboot and a sequel, Doom Eternal, in 2020.",
+    "source": "https://en.wikipedia.org/wiki/Doom_(1993_video_game)",
+    "category": "First-Person Shooter"
+  },
+  {
+    "id": 23,
+    "title": "Final Fantasy VII - JRPG Icon",
+    "text": "Final Fantasy VII is a role-playing video game developed and published by Square for the PlayStation in 1997. It is widely regarded as one of the most influential and beloved JRPGs ever made. The game follows Cloud Strife, a mercenary who joins the eco-terrorist organization AVALANCHE to fight against the Shinra corporation, which is draining the planet's life energy. The narrative expands into a battle against Sephiroth, one of gaming's most iconic antagonists. The death of Aerith Gainsborough remains one of the most emotionally impactful moments in gaming history. The game introduced 3D environments and pre-rendered backgrounds to the series and featured summons, Materia magic system, and limit breaks. A multi-part remake project began with Final Fantasy VII Remake in 2020 and continued with Final Fantasy VII Rebirth in 2024.",
+    "source": "https://en.wikipedia.org/wiki/Final_Fantasy_VII",
+    "category": "RPG"
+  },
+  {
+    "id": 24,
+    "title": "Among Us - Social Deduction Sensation",
+    "text": "Among Us is an online multiplayer social deduction game developed and published by InnerSloth. Originally released in 2018, it gained massive popularity in 2020 during the COVID-19 pandemic after being streamed by popular content creators. Players are crew members aboard a spaceship completing tasks while Impostors among them attempt to sabotage and eliminate the crew. The game requires social deduction, persuasion, and deception as players discuss and vote out who they believe is the Impostor. The colorful art style and simple mechanics made it accessible to players of all ages. The game became a cultural meme phenomenon with phrases like sus becoming part of internet vocabulary. Among Us is available on mobile for free and on PC and console for a small fee. Its sudden resurgence years after release is one of gaming's most remarkable success stories.",
+    "source": "https://en.wikipedia.org/wiki/Among_Us",
+    "category": "Social Deduction"
+  },
+  {
+    "id": 25,
+    "title": "The Elder Scrolls V: Skyrim - Timeless Open World",
+    "text": "The Elder Scrolls V: Skyrim is an action role-playing game developed by Bethesda Game Studios and published by Bethesda Softworks. Originally released in 2011, it has been re-released and remastered multiple times on virtually every platform, becoming a cultural meme. Players control the Dragonborn, a hero with the innate ability to absorb dragon souls and use powerful shouts called Thu'um. Set in the northern province of Skyrim, the main quest involves defeating the dragon Alduin who is prophesied to destroy the world. The game features hundreds of hours of content through its main quest, faction questlines, and radiant quests. Its character creation and skill systems offer tremendous freedom of playstyle. Skyrim is famous for its massive modding community that continues to add content years after release. The game sold over 30 million copies and remains one of the most played games of all time.",
+    "source": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim",
+    "category": "RPG"
+  }
+]
